@@ -1,0 +1,17 @@
+{
+  "name": "mavlink-visualizer",
+  "version": "1.0.0",
+  "description": "MAVLink Control Surface Visualizer using node-mavlink, Express, and WebSocket",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.0",
+    "node-mavlink": "^2.0.6",
+    "ws": "^8.16.0"
+  }
+}
