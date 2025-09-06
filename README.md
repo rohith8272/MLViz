@@ -1,5 +1,5 @@
 
-# MAVLink WebSocket Server
+# MLViz
 
 This project creates a WebSocket server using **Express** and **WS** to communicate with MAVLink-enabled devices over a serial connection/TCP/UDP.
 
